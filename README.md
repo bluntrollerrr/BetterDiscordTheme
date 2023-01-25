@@ -1,1 +1,1 @@
-# Chillax-Theme-for-BetterDiscord
+Improved theme taken from Chillax for BetterDiscord
