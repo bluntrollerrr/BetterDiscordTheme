@@ -3,9 +3,9 @@
 /*taken from: https://warrayquipsome.github.io/Chillax/chillax.css*/
 
 /*Dark Mode*/
-@import url('https://raw.githubusercontent.com/bluntrollerrr/Chillax-Theme-for-BetterDiscord/main/darkmode.css');
+@import url('https://bluntrollerrr.github.io/BetterDiscordTheme/darkmode.css');
 /*Light Mode*/
-@import url('https://raw.githubusercontent.com/bluntrollerrr/Chillax-Theme-for-BetterDiscord/main/lightmode.css');
+@import url('https://bluntrollerrr.github.io/BetterDiscordTheme/lightmode.css');
 
 /*if needing the Friends Grid back, add the following:
 @import url("https://crearts-community.github.io/Friends-Grid/theme.css");
