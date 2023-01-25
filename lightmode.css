@@ -15,11 +15,7 @@
 @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
 @import url("https://warrayquipsome.github.io/Chillax/ChillaxTag.css");
 @import url("https://warrayquipsome.github.io/Chillax/Addons/SettingsModalEdited.css");
-@import url("https://crearts-community.github.io/Friends-Grid/theme.css");
 @import url("https://neodymium7.github.io/BetterDiscordStuff/CSS/AddServerDarkMode.css");
-
-
-
 
 /***TRANSPARENT CODES***/
 /**transparent part LVL I**/
@@ -1848,30 +1844,7 @@ display: block;
 .scroller-3X7KbA > div[aria-label="Servers"]::-webkit-scrollbar {
   width: 0px;
 }
-/*custom friends grid fix*/
-.avatar-2MSPKk {
-  left: 25px;
-  bottom: -60px;
-}
-.theme-light .listItemContents-2n2Uy9 {
-  background: #f2f3f5
-}
-.theme-light .listItemContents-2n2Uy9:hover {
-  background: rgb(255, 255, 255);
-  transition: 0.2s;
-}
-.peopleColumn-1wMU14 .text-3j8t_e {
-  width: 100% !important;
-  margin-left: 0px !important;
-  display: flex;
-  align-items: center;
-}
-.peopleColumn-1wMU14 .listItemContents-2n2Uy9 .discordTag-3HiQI9 {
-  margin-bottom: 10px;
-}
-.peopleColumn-1wMU14 .listItemContents-2n2Uy9 .activity-1KqKY2 {
-  max-width: 250px;
-}
+
 /*active now*/
 .heading-lg-medium-3gUJeM {
   text-align: center;
